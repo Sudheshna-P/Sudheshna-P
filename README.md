@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudheshna-prabakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheshna-prabakaran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudheshna-prabakaran-1778b0257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheshna-prabakaran" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sudheshnap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudheshnap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sudheshna_p2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudheshna_p2022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudheshna-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudheshna-p" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sudheshna_p2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudheshna_p20221" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Sudheshna-P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sudheshna-P" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
